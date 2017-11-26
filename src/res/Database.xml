@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <FIELD1>Radioshack</FIELD1>
+    <FIELD2>iPhone 7</FIELD2>
+    <FIELD3>700</FIELD3>
+  </row>
+  <row>
+    <FIELD1>Apple Store</FIELD1>
+    <FIELD2>iPhone 7</FIELD2>
+    <FIELD3>500</FIELD3>
+  </row>
+  <row>
+    <FIELD1>AT&amp;T</FIELD1>
+    <FIELD2>iPhone 7</FIELD2>
+    <FIELD3>400</FIELD3>
+  </row>
+  <row>
+    <FIELD1>Amazon</FIELD1>
+    <FIELD2>iPhone 7</FIELD2>
+    <FIELD3>450</FIELD3>
+  </row>
+  <row>
+    <FIELD1>Apple Store</FIELD1>
+    <FIELD2>Macbook</FIELD2>
+    <FIELD3>2000</FIELD3>
+  </row>
+  <row>
+    <FIELD1>Amazon</FIELD1>
+    <FIELD2>Macbook</FIELD2>
+    <FIELD3>1500</FIELD3>
+  </row>
+</root>
