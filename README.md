@@ -1,8 +1,8 @@
 # java-simulate-db
 
-Eclipse Java Project
+A command line program to read xml or csv file and simulate searching in a database in Java.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
